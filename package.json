@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "marked": "node ./script.js ./src/",
+    "build": "webpack"
+  },
+  "dependencies": {
+    "commander": "^2.19.0",
+    "marked": "^0.6.0"
+  }
+}
